@@ -17,7 +17,7 @@ This repository has been updating to roughly 250 solutions before December 2021,
   14. Minimum Spanning Tree
   15. Disjoint Set Union
 
-# The group of advanced problems comprises 5 topics:
+# The group of advanced problems comprises 6 topics:
   1. Topological Sort and Bit Manipulation
   2. Backtracking and Divide & Conquer
   3. Greedy and Number Theory
