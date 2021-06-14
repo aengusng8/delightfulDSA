@@ -1,6 +1,6 @@
 This repository has been updating to roughly 250 solutions, and I divided them into two groups: intermediate and advanced problems.
 
-# The group of intermediate problems comprises:
+# The group of intermediate problems comprises 15 topics:
   1. Dynamic Array & String
   2. Algorithmic Complexity
   3. Applied Sorting
@@ -17,7 +17,7 @@ This repository has been updating to roughly 250 solutions, and I divided them i
   14. Minimum Spanning Tree
   15. Disjoint Set Union
 
-# The group of advanced problems comprises:
+# The group of advanced problems comprises 5 topics:
   1. Topological Sort and Bit Manipulation
   2. Backtracking and Divide & Conquer
   3. Greedy and Number Theory
