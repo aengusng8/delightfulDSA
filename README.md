@@ -1,6 +1,6 @@
 This repository has been updating to roughly 250 solutions, and I divided them into two groups: intermediate and advanced problems.
 
-#The group of intermediate problems comprises:
+#The-group of intermediate problems comprises:
   1. Dynamic Array & String
   2. Algorithmic Complexity
   3. Applied Sorting
