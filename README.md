@@ -1,4 +1,4 @@
-This repository has been updating to roughly 250 solutions, and I divided them into two groups: intermediate and advanced problems.
+This repository has been updating to roughly 250 solutions before December 2021, and I divided them into two groups: intermediate and advanced problems.
 
 # The group of intermediate problems comprises 15 topics:
   1. Dynamic Array & String
