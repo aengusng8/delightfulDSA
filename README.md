@@ -18,9 +18,13 @@ This repository has been updating to roughly 250 solutions before December 2021,
   15. Disjoint Set Union
 
 # The group of advanced problems comprises 6 topics:
-  1. Topological Sort and Bit Manipulation
-  2. Backtracking and Divide & Conquer
-  3. Greedy and Number Theory
-  4. Hash table and Dynamic Programming
-  4. Dynamic Programming
-  5. Knuth-Morris-Pratt and Segment Tree
+  1. Topological Sort 
+  2. Bit Manipulation
+  3. Backtracking 
+  4.Divide & Conquer
+  5. Greedy 
+  6. Number Theory
+  7. Hash table 
+  8.Dynamic Programming
+  9. Knuth-Morris-Pratt 
+  10. 10. Segment Tree
