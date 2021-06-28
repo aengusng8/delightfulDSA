@@ -10,8 +10,6 @@ def DFS(sr, sc):
 	s = [(sr, sc)]
 	visited[sr][sc] = True
 
-	global lakes
-
 	isOcean = False
 	lake = []
 
