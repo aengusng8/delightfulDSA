@@ -1,4 +1,4 @@
-This repository has been updating to roughly 250 solutions before December 2021, and I divided them into two groups: intermediate and advanced problems.
+To be fluent in Python and intermediate data structures and algorithms, I am writing 120 solutions to problems from Codeforce, HackerRank, Spoj, Uva. My mentor structured the curriculum, and he got second prize in The 2015 ACM-ICPC Asia Hanoi Regional Contest.
 
 # The group of intermediate problems comprises 15 topics:
   1. Dynamic Array & String
