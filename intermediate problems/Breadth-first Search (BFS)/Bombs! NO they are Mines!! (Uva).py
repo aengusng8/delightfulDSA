@@ -41,14 +41,14 @@ while True:
 	visited = [[False] * C for _ in range(R)]
 	dist = [[0] * C for _ in range(R)]
 
-	bomedRow = int(input())
+	bombedRow = int(input())
 
-	for _ in range(bomedRow):
+	for _ in range(bombedRow):
 		indexList = list(map(int, input().split()))
 		row = indexList.pop(0)
-		nBom = indexList.pop(0)
+		nBomb = indexList.pop(0)
 
-		for i in range(nBom):
+		for i in range(nBomb):
 			maze[row][indexList[i]] = 1
 
 	sr, sc = map(int, input().split())
