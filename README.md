@@ -17,7 +17,7 @@ To be fluent in Python and intermediate data structures and algorithms, I am wri
   14. Minimum Spanning Tree
   15. Disjoint Set Union
 
-# The group of advanced problems comprises 10 topics:
+# The group of advanced problems comprises 10 topics (and I haven't planned to learn the advanced DSA yet):
   1. Topological Sort 
   2. Bit Manipulation
   3. Backtracking 
