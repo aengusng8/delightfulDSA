@@ -29,3 +29,18 @@ while True:
 		ans = bsFirst(inputList, 0, n - 1, x)
 
 		print("{} not found".format(x) if ans == -1 else "{} found at {}".format(x, ans + 1))
+		
+"""
+def BS_search(a, l, r, value):
+    ans = -1
+    while l <= r:
+        mid = int( (l + r) / 2 )
+        if a[mid] == value:
+            ans = mid
+            r = mid - 1
+        elif a[mid] > value:
+            r = mid - 1
+        else:
+            l = mid + 1
+    return ans
+"""
