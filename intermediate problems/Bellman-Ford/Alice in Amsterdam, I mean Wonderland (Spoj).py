@@ -52,7 +52,7 @@ while True:
 
 	for i in range(q):
 		u, v = map(int, input().split())
-		if n_dist[u][v] <= -INF: 		#BE CAREFUL HERE!
+		if n_dist[u][v] <= -INF: 		#BE CAREFUL HERE!  but in this case, it works with: if n_dist[u][v] == -INF
 			print("NEGATIVE CYCLE")
 		else:
 			print("{}-{} {}".format(monuments[u], monuments[v], n_dist[u][v] if n_dist[u][v] != INF else "NOT REACHABLE"))
