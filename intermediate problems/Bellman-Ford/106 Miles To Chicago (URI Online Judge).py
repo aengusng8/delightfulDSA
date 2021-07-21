@@ -7,10 +7,10 @@ def BellmanFord():
 		for edge in graph:
 			u, v, w = edge
 
-			if prob[v] != -1:								#!!! For undirected graph only
-				prob[u] = max(prob[u], prob[v] * w)		
-			if prob[u] != -1:								#!!! For undirected graph only
-				prob[v] = max(prob[v], prob[u] * w)				
+			if prob[v] != -1:					#!!! For undirected graph only		but, you can also do:
+				prob[u] = max(prob[u], prob[v] * w)		#					prob[u] = max(prob[u], prob[v] * w)
+			if prob[u] != -1:					#					prob[u] = max(prob[u], prob[v] * w)
+				prob[v] = max(prob[v], prob[u] * w)		# 		-> because: "there is at least one path between intersection 1 and n."	
 
 while True:
 	line = list(map(int, input().split()))
