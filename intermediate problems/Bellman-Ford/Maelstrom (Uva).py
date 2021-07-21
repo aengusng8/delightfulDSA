@@ -6,8 +6,8 @@ def BellmanFord(s, n, dist, graph):
 	for i in range(n - 1):
 		for edge in graph:
 			u, v, w = edge
-			if dist[u] != INF and dist[v] > dist[u] + w:
-				dist[v] = dist[u] + w 
+			dist[v] = min(dist[v], dist[u] + w)			#!!!
+			dist[u] = min(dist[u], dist[v] + w)			#!!!
  
 n = int(input())
 dist = [INF] * (n + 1)
