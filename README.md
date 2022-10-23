@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67547213/197374335-6a912e22-ecdf-402a-8a59-b270fd8e5991.png">
+</p>
+
 To be fluent in Python and intermediate data structures and algorithms, I am writing 120 solutions to problems from Codeforce, HackerRank, HackerEarth, Spoj, Uva, Codechef. My mentor structured the curriculum, and he got second prize in The 2015 ACM-ICPC Asia Hanoi Regional Contest.
 
 # The group of intermediate problems comprises 15 topics:
