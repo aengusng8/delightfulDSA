@@ -1,10 +1,11 @@
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67547213/197374335-6a912e22-ecdf-402a-8a59-b270fd8e5991.png">
+  <img src="https://user-images.githubusercontent.com/67547213/197374505-e15c8e98-e88c-4b79-a57f-f4df85070df3.png">
 </p>
 
 To be fluent in Python and intermediate data structures and algorithms, I am writing 120 solutions to problems from Codeforce, HackerRank, HackerEarth, Spoj, Uva, Codechef. My mentor structured the curriculum, and he got second prize in The 2015 ACM-ICPC Asia Hanoi Regional Contest.
 
-# The group of intermediate problems comprises 15 topics:
+## Intermediate problems
   1. Dynamic Array & String
   2. Algorithmic Complexity
   3. Applied Sorting
@@ -21,7 +22,7 @@ To be fluent in Python and intermediate data structures and algorithms, I am wri
   14. Minimum Spanning Tree
   15. Disjoint Set Union
 
-# The group of advanced problems comprises 10 topics:
+## Advanced problems
 (and I haven't planned to learn the advanced DSA yet)
 
   1. Topological Sort 
